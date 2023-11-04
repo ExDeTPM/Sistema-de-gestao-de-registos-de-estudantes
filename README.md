@@ -1,5 +1,5 @@
 # Sistema de gestão de registos de alunos
-Uma aplicação de secretária minimalista para gerir os registos dos alunos. **Os registos são guardados diretamente num ficheiro Excel para diminuir o custo do trabalho de entrada de dados** e melhorar a eficiência.
+Um aplicativo de secretáriado minimalista para gerenciar registros de alunos. 
 
 >Inicie o srm.exe diretamente para utilizar a aplicação.
 
