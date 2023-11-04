@@ -9,7 +9,7 @@ using namespace std;
 void passwordVerification(void);
 void mainMenu(void);
 
-//Auth Before opening the main program
+//Auth Antes de abrir o programa principal
 
 void passwordVerification()
 {
@@ -40,7 +40,7 @@ void passwordVerification()
             for (int i = 0; i < 4; i++)
             {
 
-                Sleep(1000); // 1 second pause;
+                Sleep(1000); // 1 segundo de pausa;
                 cout << ".";
             }
 
@@ -50,7 +50,7 @@ void passwordVerification()
     }
 
     while (password != "password");
-    mainMenu(); // main menu function is in the Header File adminFunction.h
+    mainMenu(); // A função do menu principal está no ficheiro de cabeçalho adminFunction.h
 }
 
 int main()
