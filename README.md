@@ -8,10 +8,3 @@ Uma aplicação de secretária minimalista para gerir os registos dos alunos. **
 >O administrador tem acesso total para manipular os dados.
 
 >A conta de estudante só pode ver os dados.
-
-# `Logado como Admin`
-
-
-## `Ver Registos de Alunos`
-
-## ``Registos guardados em ficheiro Excel``
